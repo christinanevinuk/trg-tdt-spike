@@ -1,4 +1,6 @@
-# trg-gds-tech-docs-spike
+# trg-tdt-spike
+
+This repository is forked from https://github.com/hmrc/trg-tech-docs-template-spike, the spike project:
 
 This repository is a spike, to investigate if/ how MDTP might use the [GDS tech-docs-template](https://tdt-documentation.london.cloudapps.digital/) as a static site generator with which to re-implement the Technical Reference Guide (TRG). The spike is being tracked in [TRG-85](https://jira.tools.tax.service.gov.uk/browse/TRG-85).
 
